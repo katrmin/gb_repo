@@ -1,8 +1,9 @@
-package ru.sbrf.mea;
+﻿package ru.sbrf.mea;
 
 /**
  * @author Ekaterina M
  * This class for 1 lesson
+Создала ветку lesson 1 для PR
  */
 public class MainClass {
 
